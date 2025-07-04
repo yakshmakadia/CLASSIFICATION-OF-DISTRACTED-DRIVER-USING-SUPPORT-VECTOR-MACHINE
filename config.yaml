@@ -1,0 +1,3 @@
+image_size: 100
+pca_components: 16
+svm_kernel: linear
